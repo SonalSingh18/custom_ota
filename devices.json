@@ -660,10 +660,24 @@
       "name": "Redmi Note 9S, 9 Pro, 9 Pro Max, Poco M2 Pro",
       "supported_versions": [
          {
-            "maintainer_name": "Ahmed Tohamy (Agmad)",
-            "maintainer_url": "https://forum.xda-developers.com/member.php?u=8386267",
-            "version_code": "ten",
-            "version_name": "Ten",
+            "maintainer_name": "Sonal Singh (SonalSingh18)",
+            "maintainer_url": "https://forum.xda-developers.com/m/sonalsingh18.8425394/",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "gram",
+      "name": "Poco M2 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "Sonal Singh (SonalSingh18)",
+            "maintainer_url": "https://forum.xda-developers.com/m/sonalsingh18.8425394/",
+            "version_code": "eleven",
+            "version_name": "Eleven",
             "xda_thread": ""
          }
       ]
